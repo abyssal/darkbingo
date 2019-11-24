@@ -72,7 +72,7 @@ export default class AppComponent extends React.Component {
             </tbody>
           </table>
           <h1 className="header"><img alt="" src="lick.png" id="left" /> <a rel="noopener noreferrer" className="nostyle" target="_blank" href="http://twitch.tv/DarkViperAU">twitch.tv/DarkViperAU</a> <img alt="" src="lick.png" /></h1>
-          <p id='credits'>Made by <a href="http://twitter.com/abyssalnz">Abyssal</a></p>
+          <p id='credits'>Made by <a href="http://twitter.com/abyssalnz">Abyssal</a> and <a href="https://discordapp.com/invite/DarkViperAU">the DarkViperAU Discord server</a></p>
         </div>
       </div>
     );

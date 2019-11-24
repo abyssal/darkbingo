@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/darkbingo/static/css/main.76c4bd1c.chunk.css",
-    "main.js": "/darkbingo/static/js/main.7cead05f.chunk.js",
-    "main.js.map": "/darkbingo/static/js/main.7cead05f.chunk.js.map",
+    "main.js": "/darkbingo/static/js/main.679276d0.chunk.js",
+    "main.js.map": "/darkbingo/static/js/main.679276d0.chunk.js.map",
     "runtime-main.js": "/darkbingo/static/js/runtime-main.d14895b9.js",
     "runtime-main.js.map": "/darkbingo/static/js/runtime-main.d14895b9.js.map",
     "static/js/2.3111646c.chunk.js": "/darkbingo/static/js/2.3111646c.chunk.js",
     "static/js/2.3111646c.chunk.js.map": "/darkbingo/static/js/2.3111646c.chunk.js.map",
     "index.html": "/darkbingo/index.html",
-    "precache-manifest.ea79aa7372ec125dc5dc644e4b1509b0.js": "/darkbingo/precache-manifest.ea79aa7372ec125dc5dc644e4b1509b0.js",
+    "precache-manifest.4962adb976a807c8cc4f0565f4de3894.js": "/darkbingo/precache-manifest.4962adb976a807c8cc4f0565f4de3894.js",
     "service-worker.js": "/darkbingo/service-worker.js",
     "static/css/main.76c4bd1c.chunk.css.map": "/darkbingo/static/css/main.76c4bd1c.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d14895b9.js",
     "static/js/2.3111646c.chunk.js",
     "static/css/main.76c4bd1c.chunk.css",
-    "static/js/main.7cead05f.chunk.js"
+    "static/js/main.679276d0.chunk.js"
   ]
 }

@@ -43,7 +43,7 @@ export default class AppComponent extends React.Component {
     }
     return (
       <div className="App">
-        <h1 className="header">DarkViperAU Bingo</h1>
+        <h1 className="header"><img alt="" src="wave.png" /> DarkViperAU Bingo <img alt="" src="pass.png" /></h1>
         <table>
           <tbody>
           <tr>
@@ -66,7 +66,7 @@ export default class AppComponent extends React.Component {
           </tr>
           </tbody>
         </table>
-        <h1 className="header">twitch.tv/DarkViperAU</h1>
+        <h1 className="header"><img alt="" src="lick.png" id="left"/> <a rel="noopener noreferrer" className="nostyle" target="_blank" href="http://twitch.tv/DarkViperAU">twitch.tv/DarkViperAU</a> <img alt="" src="lick.png" /></h1>
       </div>
     );
   }

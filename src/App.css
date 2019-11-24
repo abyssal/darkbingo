@@ -5,12 +5,25 @@ td {
   text-align: center;
   overflow: hidden;
   font-size: 18px;
+  font-weight: bold;
 }
 body {
   -webkit-user-select: none;  
   -moz-user-select: none;    
   -ms-user-select: none;      
   user-select: none;
+}
+
+img {
+  --img-size: 50px;
+  vertical-align: -10px;
+  width: var(--img-size);
+  height: var(--img-size);
+}
+
+img#left {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
 }
 
 table {
@@ -29,4 +42,18 @@ table {
   color: white;
   font-family: 'Arial Black';
   -webkit-text-stroke: 1px black;
+}
+
+a.nostyle:link {
+  text-decoration: inherit;
+  color: white;
+  cursor: auto;
+  -webkit-text-stroke: 1px black;
+}
+
+a.nostyle:visited {
+  text-decoration: inherit;
+  color: white;
+  -webkit-text-stroke: 1px black;
+  cursor: auto;
 }

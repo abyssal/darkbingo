@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/darkbingo/static/css/main.0b5e0d17.chunk.css",
+    "main.css": "/darkbingo/static/css/main.c563343f.chunk.css",
     "main.js": "/darkbingo/static/js/main.54805be3.chunk.js",
     "main.js.map": "/darkbingo/static/js/main.54805be3.chunk.js.map",
     "runtime-main.js": "/darkbingo/static/js/runtime-main.d14895b9.js",
@@ -8,14 +8,14 @@
     "static/js/2.3111646c.chunk.js": "/darkbingo/static/js/2.3111646c.chunk.js",
     "static/js/2.3111646c.chunk.js.map": "/darkbingo/static/js/2.3111646c.chunk.js.map",
     "index.html": "/darkbingo/index.html",
-    "precache-manifest.615649a86aa67d28e9b630250364ac75.js": "/darkbingo/precache-manifest.615649a86aa67d28e9b630250364ac75.js",
+    "precache-manifest.3317a2ea61461136bad652a0f5024c91.js": "/darkbingo/precache-manifest.3317a2ea61461136bad652a0f5024c91.js",
     "service-worker.js": "/darkbingo/service-worker.js",
-    "static/css/main.0b5e0d17.chunk.css.map": "/darkbingo/static/css/main.0b5e0d17.chunk.css.map"
+    "static/css/main.c563343f.chunk.css.map": "/darkbingo/static/css/main.c563343f.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.d14895b9.js",
     "static/js/2.3111646c.chunk.js",
-    "static/css/main.0b5e0d17.chunk.css",
+    "static/css/main.c563343f.chunk.css",
     "static/js/main.54805be3.chunk.js"
   ]
 }

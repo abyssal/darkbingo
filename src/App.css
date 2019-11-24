@@ -15,6 +15,10 @@ body {
   user-select: none;
 }
 
+#credits {
+  color: white;
+}
+
 img {
   --img-size: 50px;
   vertical-align: -10px;

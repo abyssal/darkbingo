@@ -8,6 +8,7 @@ td {
   font-weight: bold;
 }
 body {
+  background-color:#ff6969;
   -webkit-user-select: none;  
   -moz-user-select: none;    
   -ms-user-select: none;      
@@ -32,7 +33,6 @@ table {
 }
 
 .App {
-  background-color:#ff6969;
   padding-left: 50px;
   padding-top: 20px;
   padding-bottom: 20px;
